@@ -1,12 +1,10 @@
- body {
+body {
  font-family: 'Times New Roman', Times, serif;
  padding: 10px;
   background-color:lightblue;
   background-image: url("http://127.0.0.1:5503/images/pexels-pok-rie-1432066.jpg");
  }
- .nav {
-     
- }
+
  h1 {
     font-family: 'monosoace';
     text-align: center;
@@ -14,8 +12,7 @@
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: black;
-    text-align: left;
-    
+    text-align: left;   
 }
                                                              
  ul {
@@ -23,10 +20,10 @@ p {
  margin: 0;
  padding: 10;
  overflow: hidden;
-  background-color: blue;
+ background-color: blue;
  }
                                                              
- li {
+ ul li {
 float: left;
  }
                                                              
@@ -39,8 +36,27 @@ float: left;
  }
                                                              
  li a:hover {
- background-color: yellow;
+ background-color:white;
 }
 .professionalism{
     background-color: chartreuse;
 }
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color:lightcoral;
+ }
+  #FOLLOW        ME ol {
+      list-style-type: none;
+      display: flex;
+      justify-content: center;
+      color: yellow;
+      font-size: 25px;
+}
+#FOLLOW ME ol a:hover{
+    color:green;
+}
+
+
