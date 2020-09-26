@@ -5,7 +5,7 @@
   background-image: url("http://127.0.0.1:5503/images/pexels-pok-rie-1432066.jpg");
  }
  h1 {
-    font-family: 'monosoace'
+    font-family: 'monosoace';
     text-align: center;
 }
 p {
@@ -39,5 +39,5 @@ float: left;
  background-color: yellow;
 }
 .professionalism{
-    background-image: src('http://127.0.0.1:5503/images/pexels-pok-rie-1432066.jpg');
+    background-color: chartreuse;
 }
