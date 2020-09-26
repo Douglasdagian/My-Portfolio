@@ -4,6 +4,9 @@
   background-color:lightblue;
   background-image: url("http://127.0.0.1:5503/images/pexels-pok-rie-1432066.jpg");
  }
+ .nav {
+     
+ }
  h1 {
     font-family: 'monosoace';
     text-align: center;
@@ -18,7 +21,7 @@ p {
  ul {
  list-style-type: none;
  margin: 0;
- padding: 0;
+ padding: 10;
  overflow: hidden;
   background-color: blue;
  }
