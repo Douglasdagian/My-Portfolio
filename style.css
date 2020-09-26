@@ -1,8 +1,18 @@
  body {
  font-family: 'Times New Roman', Times, serif;
  padding: 10px;
-  background-color: skyblue;
+  background-color:lightblue;
  }
+ h1 {
+    font-family: 'monosoace'
+    text-align: center;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: black;
+    text-align: center;
+    
+}
                                                              
  ul {
  list-style-type: none;
