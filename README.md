@@ -11,3 +11,5 @@ A web page about my biography.
 * https://github.com/Douglasdagian/Wifi-and-Dstv-supply
 * https://github.com/Douglasdagian/moneygro
 * https://github.com/Douglasdagian/My-Portfolio
+### License
+ Licensed under [MIT License] (LICENSE)

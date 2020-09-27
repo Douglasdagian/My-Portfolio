@@ -48,7 +48,7 @@ float: left;
     background-color: red;
     color:lightcoral;
  }
-  #FOLLOW        ME ol {
+  #FOLLOW ME ol {
       list-style-type: none;
       display: flex;
       justify-content: center;
